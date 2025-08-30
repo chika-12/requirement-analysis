@@ -24,3 +24,5 @@ Example of functional requirement is Login and Property listing
 Example of non functional requirement scalability
 
 ## Use Case Diagrams
+
+## Acceptance Criteria
